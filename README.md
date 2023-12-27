@@ -1,2 +1,2 @@
-- 👋 Hi, I’m ِ Amwaj
+- 👋 Hi, I’m Amwaj
 - 💖 I’m Front-End Developer 
